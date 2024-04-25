@@ -22,7 +22,7 @@ export const tags = [
 ];
 
 // //expects a key in the end
-//const GOOGLE_API_KEY = "AIzaSyDMb-1ZS5WdzocBBY57Jov6vXbb9og-uBI"
+
 // export const YOUTUBE_MOST_POPULAR = "https://youtube.googleapis.com/youtube/v3";
 
 // export const BASE_URL = "https://youtube.googleapis.com/youtube/v3";
@@ -30,9 +30,8 @@ export const tags = [
 //export const YOUTUBE_SEARCH_SUGGESTION_API_URL =
  // "https://corsproxy.io/?https://clients1.google.com/complete/search?client=firefox&ds=yt&q=http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=";
 
-// const GOOGLE_API_KEY = "AIzaSyAtIibgU4boIyzkgbabBCe8BJJsBSfNlWA";
 export const BASE_URL = 'https://youtube.googleapis.com/youtube/v3';
-export const GOOGLE_API_KEY ="AIzaSyDMb-1ZS5WdzocBBY57Jov6vXbb9og-uBI";
+
  export const LIVE_CHAT_COUNT = 25;
 
 export const YOUTUBE_VIDEOS_API =
