@@ -14,7 +14,7 @@ import ShimmerHome from "./ShimmerHome"
 
     const getVideos = async () => {
       try {
-       // const apiKey = 'AIzaSyA9Hc8LJGrILkS98DZQPKlxIWMbQLIeY2c'; // Replace 'YOUR_API_KEY' with your actual API key
+    
        const data = await fetch(YOUTUBE_VIDEOS_API);
 
         if (!data.ok) {
